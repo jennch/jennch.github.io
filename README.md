@@ -1,5 +1,5 @@
 # personal_website
-Project 1 for Web Development CS5610 &nbsp; 
-Author: Jennifer Chang &nbsp; 
-Project Objective: Creating a personal website &nbsp; 
-Instructions to build: &nbsp; 
+## Project 1 for Web Development CS5610 details
+- Author: Jennifer Chang
+- Project Objective: Create a personal website
+## Instructions to build
