@@ -1,7 +1,7 @@
 {
   "name": "personal_website",
   "version": "1.0.0",
-  "description": "",
+  "description": "Personal Website",
 
   "devDependencies": {
     "eslint": "^7.10.0"
