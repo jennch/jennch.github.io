@@ -2,9 +2,10 @@
 ## Project 1 for Web Development CS5610 details
 - Author: Jennifer Chang
 - Project Objective: Creating a personal website that showcases my passions, skills, and aspirations
+- Class Link: https://johnguerra.co/classes/webDevelopment_fall_2020/
 ## Screenshots
-![Home Screenshot](/read-me/home.png)
-![About Screenshot](reade-me/about.png)
+![Home Screenshot](home.png)
+![About Screenshot](rabout.png)
 ## Instructions to build
-1. npm install
-2. npm start 
+1. Clone
+2. Open index.html
